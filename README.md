@@ -6,7 +6,7 @@
 
 ## 🚀 배포 링크
 
-> **[ https://kmu-likelion13.site/ ]**
+> **[ kmu-likelion13.netlify.app ]**
 
 > **⚠️ 프로젝트 안내**
 >
